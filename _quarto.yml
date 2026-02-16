@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - teach.qmd
+      - misc.qmd
 
 format:
   html:

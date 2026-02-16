@@ -1,0 +1,20 @@
+---
+title: "Miscellaneous"
+format: html
+---
+
+**Current read:** *Katabasis* by R. F. Kuang
+
+**Other 2026 reads:**
+
+-   *The Metamorphosis*, Franz Kafka
+
+**Miscellaneous Gems**
+
+![](media/misc/mimi_tucked.jpeg){fig-align="left" width="45%"}
+
+![](media/misc/canyon_creek.jpeg){fig-align="right" width="45%"}
+
+![](media/misc/fl_sunset.jpeg){width="45%"}
+
+![](media/misc/osiris.jpeg){fig-align="right" width="45%"}
