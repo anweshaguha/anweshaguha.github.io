@@ -1,11 +1,24 @@
 ---
-title: "anweshaguha.github.io"
+title: "Anwesha Guha"
+subtitle: "educate. liberate. be well."
 ---
 
-This is a Quarto website.
+Hi y'all, I'm a PhD Candidate at the University of Oregon College of Education. My focus and specialization is quantitative research methods in education, with sub-specialties in data science and prevention science. I plan to graduate in June 2026.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Before my PhD, I received my Master's in Education from the University of Missouri, St. Louis, and taught high school math. I received my Bachelor's in Science in quantitative methods and English literature from Emory University.
 
-```{r}
-1 + 1
-```
+Outside of school, I like being outdoors on warm days, crafting on cool days, and drinking a good cup of coffee always. Let's connect.
+
+---
+image: media/IMG.jpeg
+toc: false
+about: 
+    template: jolla
+    image-shape: round
+    image-width: 20em
+    links: 
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/anwesha-guha-57b23a102/
+      - text: Github
+        href: https://github.com/anweshaguha 
+---
