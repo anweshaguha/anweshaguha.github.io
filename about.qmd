@@ -2,7 +2,9 @@
 title: "Research Projects"
 ---
 
-**Peer-Reviewed Publications**
+## Articles
+
+### **Peer-Reviewed Publications**
 
 3\. Berny, L. M., **Guha, A.**, & Tanner-Smith, E. E. (2026). Distinguishing a drug use disorder from drug use in a high-risk sample of youth: A random forest classification and explanatory model analysis. *Drug and Alcohol Dependence Reports, 18,* Article 100412. <https://doi.org/10.1016/j.dadr.2026.100412>
 
@@ -14,7 +16,7 @@ Open access version: [here](media/docs/sanchez_2025.pdf).
 
 Open access version: [here](media/docs/mccuddy_2024.pdf).
 
-**Manuscripts Under Review or In-Preparation**
+### **Manuscripts Under Review or In-Preparation**
 
 3\. Zvoch, K., **Guha, A.**, & Loan, C. M. (under review). Student success teams and on-track to graduation status in Oregon: An interrupted time series analysis.
 
@@ -22,7 +24,7 @@ Open access version: [here](media/docs/mccuddy_2024.pdf).
 
 1\. **Guha, A.** (in preparation). *What matters for whom? Unpacking intersectionality, wellbeing, and retention in higher education* (Doctoral dissertation). University of Oregon.
 
-**Policy Briefs**
+### **Policy Briefs**
 
 6\. **Guha, A.**, Loan, C. M, Scalise, K., & Zvoch, K. (2023, September). *DYK #6: Student Success Teams and 9G-OTG Outcomes During the COVID-19 Pandemic.* Oregon Department of Education, Salem, OR.
 
@@ -36,7 +38,7 @@ Open access version: [here](media/docs/mccuddy_2024.pdf).
 
 1\. **Guha, A.**, Loan, C. M, Scalise, K., & Zvoch, K. (2022, September). *DYK #1: What is Measure 98?* Oregon Department of Education, Salem, OR.
 
-**CONFERENCE PRESENTATIONS**
+## **Conference Presentations**
 
 11\. **Guha, A.** (2026, April 7-12). *An Intersectional Multilevel Analysis of Individual Heterogeneity and Discriminatory Accuracy (I-MAIHDA): Uncovering Sociodemographic Inequity in Wellbeing and Retention* \[Paper presentation\]. American Educational Research Association. Los Angeles, CA, United States.
 

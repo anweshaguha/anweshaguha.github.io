@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "anweshaguha.github.io"
+  title: "anwesha guha"
   site-url: https://anweshaguha.github.io
   navbar:
     left:
