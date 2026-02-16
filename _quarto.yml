@@ -1,8 +1,10 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "anweshaguha.github.io"
+  site-url: https://anweshaguha.github.io
   navbar:
     left:
       - href: index.qmd
