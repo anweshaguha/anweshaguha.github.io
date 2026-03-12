@@ -3,10 +3,12 @@ title: "Miscellaneous"
 format: html
 ---
 
-**Current read:** *Katabasis* by R. F. Kuang
+**Current read:** *The Wager,* David Grann
 
 **Other 2026 reads:**
 
+-   *The Vegetarian*, Han Kang
+-   *Katabasis*, R. F. Kuang
 -   *The Metamorphosis*, Franz Kafka
 
 **Miscellaneous Gems**
